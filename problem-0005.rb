@@ -1,4 +1,4 @@
-# Longest Palindromic Substring
+# Longest Palindromic Substring - Medium
 
 ## https://leetcode.com/problems/longest-palindromic-substring/
 

@@ -1,4 +1,4 @@
-# Two Sums
+# Two Sums - Easy
 
 ## https://leetcode.com/problems/two-sum/
 
